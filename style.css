@@ -51,7 +51,7 @@ transform:translate(-50%,-50%);
       
         body{
             background:url(https://i.pinimg.com/564x/48/66/17/4866170e713251a278c1bfcad6c4e9cc.jpg)
-            no-repeat center center fixed;
+            no-repeat center center ;
             background-size: cover;
    background-color:#F9F9F9;
  }
